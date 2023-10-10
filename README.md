@@ -1,4 +1,4 @@
 # e-commerce
-Author-Aryan Kadam
-e-commerce clone website.
+Author-Aryan Kadam.
+amazon(e-commerce) clone website.
 
