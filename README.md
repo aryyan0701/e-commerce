@@ -1,2 +1,2 @@
 # e-commerce
-simple e-commerce clone website.
+e-commerce clone website.
