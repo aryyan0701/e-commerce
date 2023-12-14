@@ -258,19 +258,3 @@ ul a{
     padding-top: 5px;
 
 }
-
-@media only screen and (max-width: 480px) {
-    /* Additional adjustments for even smaller screens */
-    .nav-search {
-      width: 100%;
-    }
-  
-    .shop-section {
-      flex-direction: column;
-      align-items: center;
-    }
-  
-    .box {
-      width: 90%;
-    }
-  }
